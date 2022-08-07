@@ -1,0 +1,3 @@
+The username and password for accessing the admin panel is:
+Username: Admin
+Password: djohn6161
